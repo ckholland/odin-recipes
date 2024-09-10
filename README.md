@@ -1,1 +1,2 @@
-# odin-recipes
+Odin Project - Recipes
+This is my first project in the Odin Project series. I will be practicing my .html skills by linking pages and adding content (images, text, lists, etc.). I also hope to get some practice with committing to GitHub and writing commit messages.
